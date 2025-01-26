@@ -380,12 +380,12 @@ export default function TextEditor() {
             <div className="flex items-start gap-3 mb-4">
               <img
                 src="https://media.licdn.com/dms/image/D4D03AQGfUQB1s7Y4Eg/profile-displayphoto-shrink_800_800/0/1695726869355?e=1715212800&v=beta&t=Hs0Fy_LxEFXAqJPqJqDWxDI_EH_5YOQjRWxhqvKk_Oc"
-                alt="Ansh Srivastava"
+                alt="Ansh Porwal"
                 className="w-12 h-12 rounded-full"
               />
               <div>
-                <h3 className="font-semibold">Ansh Srivastava</h3>
-                <p className="text-sm text-gray-500">Full Stack Developer | MERN Stack | Next.js | React Native</p>
+                <h3 className="font-semibold">Ansh Porwal</h3>
+                <p className="text-sm text-gray-500">Software Engineer || Ex-Research intern @IIT(BHU) || Founder & Ex-President @Blockchain Club</p>
                 <p className="text-xs text-gray-400">
                   {scheduledDate ? `Scheduled for ${scheduledDate}` : '1m • 🌏'}
                 </p>
