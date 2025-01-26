@@ -379,7 +379,7 @@ export default function TextEditor() {
             {/* Profile Section */}
             <div className="flex items-start gap-3 mb-4">
               <img
-                src="https://media.licdn.com/dms/image/D4D03AQGfUQB1s7Y4Eg/profile-displayphoto-shrink_800_800/0/1695726869355?e=1715212800&v=beta&t=Hs0Fy_LxEFXAqJPqJqDWxDI_EH_5YOQjRWxhqvKk_Oc"
+                src="Ansh_Photo.png"
                 alt="Ansh Porwal"
                 className="w-12 h-12 rounded-full"
               />
